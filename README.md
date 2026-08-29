@@ -1,6 +1,6 @@
 <!-- ✨ GitHub 个人主页 / Profile page — 随便改成你喜欢的样子 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7C3AED,70:6366F1,100:06B6D4&height=230&section=header&text=Chen%20Kexi&fontSize=62&fontColor=ffffff&desc=%40Alakazamc%20%C2%B7%20fake%20it%20til%20you%20make%20it&descSize=18&descAlignY=76&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7C3AED,70:6366F1,100:06B6D4&height=230&section=header&text=Alakazam&fontSize=62&fontColor=ffffff&desc=%40Alakazamc%20%C2%B7%20fake%20it%20til%20you%20make%20it&descSize=18&descAlignY=76&animation=fadeIn" width="100%" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&height=44&lines=AI+Agent+%26+MCP+Builder;Python+%C2%B7+Vue+%C2%B7+JavaScript;Building+things+that+think+%F0%9F%A4%96;fake+it+til+you+make+it+%E2%9C%A8" alt="typing" />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Alakazamc?tab=followers"><img src="https://img.shields.io/github/followers/Alakazamc?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED&labelColor=1a1b26" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Hefei%2C%20China-8B5CF6?style=for-the-badge&labelColor=1a1b26" alt="location" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Shenzhen%2C%20China-8B5CF6?style=for-the-badge&labelColor=1a1b26" alt="location" />
   <a href="https://www.szu.edu.cn"><img src="https://img.shields.io/badge/%F0%9F%94%97-szu.edu.cn-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b26" alt="website" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 - 🔭 I'm currently building **LLM agents & MCP tools** — like [ProteinAgent](https://github.com/Alakazamc/ProteinAgent) and [pskit-2.0](https://github.com/Alakazamc/pskit-2.0)
 - 🐍 **Python** by day, 🍞 **Vue / JavaScript** when the web calls
 - 🧠 Exploring: **Model Context Protocol (MCP)** · AI agents · LLM applications
-- 📍 Based in Hefei, Anhui, China
+- 📍 Based in Shenzhen, China
 - ✨ Motto: *fake it til you make it* — 先假装会，直到真的会
 
 ## 🛠️ Tech stack
