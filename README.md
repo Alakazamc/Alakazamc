@@ -19,6 +19,7 @@
 - 🔭 I'm currently building **LLM agents & MCP tools** — like [ProteinAgent](https://github.com/Alakazamc/ProteinAgent) and [pskit-2.0](https://github.com/Alakazamc/pskit-2.0)
 - 🐍 **Python** by day, 🍞 **Vue / JavaScript** when the web calls
 - 🧠 Exploring: **Model Context Protocol (MCP)** · AI agents · LLM applications
+- 💬 Happy to talk about: LLM agents · RAG · MCP tooling · full-stack web
 - 📍 Based in Shenzhen, China
 - ✨ Motto: *fake it til you make it* — 先假装会，直到真的会
 
@@ -38,25 +39,40 @@
 
 ## 🚀 Featured projects
 
-| Project | What it does |
-| --- | --- |
-| 🧬 [**ProteinAgent**](https://github.com/Alakazamc/ProteinAgent) | 垂直领域异步 AI Agent 编排系统（FastAPI + Celery + RAG） |
-| 🍽️ [**restaurant-ai-manager**](https://github.com/Alakazamc/restaurant-ai-manager) | 餐饮经营决策支持：LangGraph 多智能体 + Agentic RAG |
-| 🧪 [**pskit-2.0**](https://github.com/Alakazamc/pskit-2.0) | BioAI Agent 工作台：20+ 生信工具 + Qdrant RAG + Vue 3 |
-| 📖 [**mojuane**](https://github.com/Alakazamc/mojuane) | 墨卷 — 沉浸式电子书阅读器（React 19 + Vite + AI 洞察） |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| 🧬 [**ProteinAgent**](https://github.com/Alakazamc/ProteinAgent) | 垂直领域异步 AI Agent 编排系统（FastAPI + Celery + RAG） | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🍽️ [**restaurant-ai-manager**](https://github.com/Alakazamc/restaurant-ai-manager) | 餐饮经营决策支持：LangGraph 多智能体 + Agentic RAG | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🧪 [**pskit-2.0**](https://github.com/Alakazamc/pskit-2.0) | BioAI Agent 工作台：20+ 生信工具 + Qdrant RAG + Vue 3 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| 📖 [**mojuane**](https://github.com/Alakazamc/mojuane) | 墨卷 — 沉浸式电子书阅读器（React 19 + Vite + AI 洞察） | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alakazamc&theme=tokyonight" width="60%" alt="profile details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alakazamc&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alakazamc&theme=vue" width="60%" alt="profile details" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alakazamc&theme=tokyonight" width="32%" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alakazamc&theme=tokyonight" width="32%" alt="most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alakazamc&theme=tokyonight" width="32%" alt="productive time" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alakazamc&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alakazamc&theme=vue" width="32%" alt="repos per language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alakazamc&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alakazamc&theme=vue" width="32%" alt="most commit language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alakazamc&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alakazamc&theme=vue" width="32%" alt="productive time" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alakazamc&theme=tokyonight&hide_border=true&locale=en" width="60%" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alakazamc&theme=tokyonight&hide_border=true&locale=en" />
+    <img src="https://streak-stats.demolab.com?user=Alakazamc&theme=default&hide_border=true&locale=en" width="60%" alt="streak" />
+  </picture>
 </p>
 
 ## 🐍 Contribution snake
