@@ -16,7 +16,7 @@
 
 ## 🧭 About me
 
-- 🔭 I'm currently building **LLM agents & MCP tools** — like [ProteinAgent](https://github.com/Alakazamc/ProteinAgent) and [weather_MCP_server](https://github.com/Alakazamc/weather_MCP_server)
+- 🔭 I'm currently building **LLM agents & MCP tools** — like [ProteinAgent](https://github.com/Alakazamc/ProteinAgent) and [pskit-2.0](https://github.com/Alakazamc/pskit-2.0)
 - 🐍 **Python** by day, 🍞 **Vue / JavaScript** when the web calls
 - 🧠 Exploring: **Model Context Protocol (MCP)** · AI agents · LLM applications
 - 📍 Based in Hefei, Anhui, China
@@ -40,10 +40,10 @@
 
 | Project | What it does |
 | --- | --- |
-| 🧬 [**ProteinAgent**](https://github.com/Alakazamc/ProteinAgent) | LLM-powered agent for protein research tasks |
-| 🍽️ [**restaurant-ai-manager**](https://github.com/Alakazamc/restaurant-ai-manager) | AI agent that helps run restaurant operations |
-| 🌤️ [**weather_MCP_server**](https://github.com/Alakazamc/weather_MCP_server) | MCP server exposing weather tools to LLMs |
-| 🛒 [**countryMarkeyforMiniApp**](https://github.com/Alakazamc/countryMarkeyforMiniApp) | Vue-based mini-app for a marketplace |
+| 🧬 [**ProteinAgent**](https://github.com/Alakazamc/ProteinAgent) | 垂直领域异步 AI Agent 编排系统（FastAPI + Celery + RAG） |
+| 🍽️ [**restaurant-ai-manager**](https://github.com/Alakazamc/restaurant-ai-manager) | 餐饮经营决策支持：LangGraph 多智能体 + Agentic RAG |
+| 🧪 [**pskit-2.0**](https://github.com/Alakazamc/pskit-2.0) | BioAI Agent 工作台：20+ 生信工具 + Qdrant RAG + Vue 3 |
+| 📖 [**mojuane**](https://github.com/Alakazamc/mojuane) | 墨卷 — 沉浸式电子书阅读器（React 19 + Vite + AI 洞察） |
 
 ## 📊 GitHub stats
 
