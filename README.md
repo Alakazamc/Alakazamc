@@ -10,6 +10,7 @@
   <a href="https://github.com/Alakazamc?tab=followers"><img src="https://img.shields.io/github/followers/Alakazamc?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7C3AED&labelColor=1a1b26" alt="followers" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Shenzhen%2C%20China-8B5CF6?style=for-the-badge&labelColor=1a1b26" alt="location" />
   <a href="https://www.szu.edu.cn"><img src="https://img.shields.io/badge/%F0%9F%94%97-szu.edu.cn-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b26" alt="website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Alakazamc&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
@@ -26,15 +27,15 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,react,vue,js,nodejs,git,githubactions,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,vue,js,nodejs,git,githubactions,linux,vscode&theme=light" alt="tech stack" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/LLM-Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1b26" alt="LLM Agents" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-8B5CF6?style=for-the-badge&labelColor=1a1b26" alt="MCP" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ## 🚀 Featured projects
