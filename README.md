@@ -15,6 +15,17 @@
 
 ---
 
+## 🏡 Homepage
+
+<a href="https://alakazamc.github.io/">
+  <img src="https://raw.githubusercontent.com/Alakazamc/alakazamc.github.io/main/assets/preview.png" width="100%" alt="homepage — Alakazam" />
+</a>
+
+<p align="center">
+  <a href="https://alakazamc.github.io/"><b>🏡 alakazamc.github.io</b></a>
+  &nbsp;·&nbsp; 时间线 / 书影音博物馆 / 项目 / 日志
+</p>
+
 ## 🧭 About me
 
 - 🔭 I'm currently building **LLM agents & MCP tools** — like [ProteinAgent](https://github.com/Alakazamc/ProteinAgent) and [pskit-2.0](https://github.com/Alakazamc/pskit-2.0)
