@@ -17,13 +17,13 @@
 
 ## 🏡 Homepage
 
-<a href="https://alakazamc.github.io/">
-  <img src="https://raw.githubusercontent.com/Alakazamc/alakazamc.github.io/main/assets/preview.png" width="100%" alt="homepage — Alakazam" />
+<a href="https://alakazamc-github-io.vercel.app/">
+  <img src="https://alakazamc.github.io/assets/preview.png" width="100%" alt="homepage — Alakazam" />
 </a>
 
 <p align="center">
-  <a href="https://alakazamc.github.io/"><b>🏡 alakazamc.github.io</b></a>
-  &nbsp;·&nbsp; 时间线 / 书影音博物馆 / 项目 / 日志
+  <a href="https://alakazamc-github-io.vercel.app/"><b>🏡 alakazamc-github-io.vercel.app</b></a>
+  &nbsp;·&nbsp; 时间线 / 书影音博物馆 / 相馆 / 项目 / 日志
 </p>
 
 ## 🧭 About me
